@@ -44,7 +44,7 @@ face_detection_project/
 │
 ├── face_detection.py
 ├── README.md
-└── requirements.txt
+
 
 ---
 
